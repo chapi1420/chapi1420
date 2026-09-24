@@ -103,7 +103,7 @@ I am a developer focused on turning ideas into clean, practical, and engaging di
 
 [![GitHub](https://img.shields.io/badge/GitHub-chapi1420-181717?style=for-the-badge&logo=github)](https://github.com/chapi1420)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nahom%20Temesgen%20Nadew-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nahom-temesgen-nadew-8b504534b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Add%20Your%20Site-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/chapi1420?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-site%20coming%20soon22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/chapi1420?tab=repositories)
 [![Email](https://img.shields.io/badge/Email-nadewnahom8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadewnahom8@gmail.com)
 
 </div>
