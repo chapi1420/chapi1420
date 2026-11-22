@@ -4,6 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=700&color=0EA5E9&center=true&vCenter=true&width=780&lines=Full-stack+developer;Problem+solver;UI+craftsperson;Always+learning,+always+shipping)](https://git.io/typing-svg)
 
+[![Portfolio](https://img.shields.io/badge/Visit%20My-Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://mohan1420profile.netlify.app/)
+
 [![GitHub followers](https://img.shields.io/github/followers/chapi1420?style=for-the-badge&logo=github&label=Followers&color=0ea5e9)](https://github.com/chapi1420?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=chapi1420&style=for-the-badge&color=22c55e&label=Profile+Views)](https://github.com/chapi1420)
 [![Stars](https://img.shields.io/github/stars/chapi1420?style=for-the-badge&logo=github&label=Stars&color=f59e0b)](https://github.com/chapi1420?tab=repositories)
@@ -103,7 +105,7 @@ I am a developer focused on turning ideas into clean, practical, and engaging di
 
 [![GitHub](https://img.shields.io/badge/GitHub-chapi1420-181717?style=for-the-badge&logo=github)](https://github.com/chapi1420)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nahom%20Temesgen%20Nadew-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nahom-temesgen-nadew-8b504534b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-site%20coming%20soon22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/chapi1420?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20site-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://mohan1420profile.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-nadewnahom8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadewnahom8@gmail.com)
 
 </div>
