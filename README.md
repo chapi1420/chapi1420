@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=700&color=0EA5E9&center=true&vCenter=true&width=780&lines=Full-stack+developer;Problem+solver;UI+craftsperson;Always+learning,+always+shipping)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Visit%20My-Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white)](https://mohan1420profile.netlify.app/)
 
 [![GitHub followers](https://img.shields.io/github/followers/chapi1420?style=for-the-badge&logo=github&label=Followers&color=0ea5e9)](https://github.com/chapi1420?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=chapi1420&style=for-the-badge&color=22c55e&label=Profile+Views)](https://github.com/chapi1420)
